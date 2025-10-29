@@ -15,7 +15,7 @@
 <a href="https://www.leetcode.com/kartik__verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik__verma" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kartik_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartik_verma" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kartik--verma" target="blank">
-  <img align="center" src="https://sta.codeforces.com/s/99684/images/codeforces-logo-with-text.png" alt="codeforces" height="30" width="40" />
+  <img align="center" src="https://codeforces.org/s/81084/images/codeforces-sponsored-by-ton.png" alt="codeforces" height="30" width="40" />
 </a>
 </p>
 
